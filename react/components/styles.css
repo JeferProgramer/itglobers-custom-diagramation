@@ -42,7 +42,7 @@
 
 .grid__itemBig{
   margin: 10px;
-  width: calc(50% - 20px);
+  width: 38%;
   height: 500px;
   background-color: blue;
 }
