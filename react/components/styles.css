@@ -42,7 +42,7 @@
 
 .grid__itemBig{
   margin: 10px;
-  width: 38%;
+  width: calc(50% - 20px);
   height: 500px;
   background-color: blue;
 }
@@ -51,4 +51,12 @@
   width: 23%;
   height: 500px;
   background-color: #004691;
+}
+@media (min-width: 700px) and (max-width:900px) {
+ 
+}
+@media (max-width:600px) {
+  .grid__itemBig{
+    width: 38%;
+  }
 }
