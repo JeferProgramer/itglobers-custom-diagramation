@@ -53,7 +53,9 @@
   background-color: #004691;
 }
 @media (min-width: 700px) and (max-width:900px) {
- 
+  .grid__itemBig{
+    width: 45%;
+  }
 }
 @media (max-width:600px) {
   .grid__itemBig{
