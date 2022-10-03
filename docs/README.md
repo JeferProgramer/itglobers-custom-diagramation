@@ -82,7 +82,7 @@ Y se repite el mismo proceso con el package.json que hay dentro de la carpeta de
 Para este paso debes ingresar a la carpeta de react, y una vez allí ejecutas tu consola o cmd
 
 ```json
-itglobers-custom-diagramation-template/react> yarn
+itglobers-custom-diagramation/react> yarn
 ```
 para que de esa forma se instalen todas las dependencias necesarias
 
