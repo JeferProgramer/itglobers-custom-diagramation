@@ -1,6 +1,6 @@
 # Componente Diagramacion Especial
 
-Componente Custom desarrollado paragenerar una grilla intercativa con el site editor de vtex que cambiara el orden y recibira componentes hijos
+Componente Custom desarrollado para generar una grilla interactiva con el site editor de vtex que cambiara el orden y recibira componentes hijos
 
 
  <img src="https://github.com/JeferProgramer/katronix-clone/blob/main/assets/img/Grid.PNG" alt="grid" align="center"/>
